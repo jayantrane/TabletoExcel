@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Table to Excel</string>
+
+    <string name="capture">Capture</string>
+    <string name="save">Save</string>
+    <string name="enter_photo_title">Photo Title</string>
+
+
+
+</resources>
